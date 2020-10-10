@@ -1004,7 +1004,7 @@ int main()
 }
 
 
-iii)  Longest increasing subsequence
+iii)  Longest Common subsequence
 
 
 #include<bits/stdc++.h> 
